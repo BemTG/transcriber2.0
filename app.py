@@ -10,7 +10,6 @@ import sys
 # parentdir = os.path.dirname(currentdir)
 # sys.path.append(parentdir)
 
-key=b'nYGePYkhuWF-Q9XejqSyfn1EcI9ZBpVdppMrsrHuV48='
 
 crypter= Fernet(key)
 
